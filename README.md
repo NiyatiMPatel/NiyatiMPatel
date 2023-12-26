@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Niyati
+### Hi there❗ I'm Niyati 👩‍💻
 
 ![](https://komarev.com/ghpvc/?username=NiyatiMPatel)
 
@@ -10,8 +10,6 @@
 - 📫 How to reach me: patelnitie@gmail.com or [LinkedIn](https://www.linkedin.com/in/niyati-mukesh-patel/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Whether it's coding, anime or hiking, I love the thrill of a good adventure! 🌲🚀
-
-
 
 #### 💻 IDEs/Editors
 
@@ -94,7 +92,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+![Niyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiyatiMPatel&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 
+![Niyati's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NiyatiMPatel&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+![Niyati's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiyatiMPatel&layout=compact&theme=tokyonight)
 
 
 

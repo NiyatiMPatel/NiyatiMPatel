@@ -94,8 +94,6 @@
 
 ![Niyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiyatiMPatel&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 
-![Niyati's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NiyatiMPatel&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-
 ![Niyati's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiyatiMPatel&layout=compact&theme=tokyonight)
 
 

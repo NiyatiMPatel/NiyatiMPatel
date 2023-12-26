@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Niyati
 
-![](https://komarev.com/ghpvc/?username=rituparna-ui)
+![](https://komarev.com/ghpvc/?username=NiyatiMPatel)
 
 - 🔭 I’m currently working on something interesting 😉
 - 🌱 I’m currently learning Typescript, Tailwind, NextJS

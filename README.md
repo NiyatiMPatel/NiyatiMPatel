@@ -92,7 +92,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-![Niyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiyatiMPatel&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Niyati's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiyatiMPatel&layout=compact&theme=tokyonight)
 

@@ -99,9 +99,9 @@
 
 </details>
 
-#### 📈 GitHub Stats
+// #### 📈 GitHub Stats
 
-![Niyati's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiyatiMPatel&card_width=1000)
+// ![Niyati's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiyatiMPatel&card_width=1000)
 
 
 

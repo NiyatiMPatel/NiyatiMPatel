@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=NiyatiMPatel)
 
-- 🔭 I’m currently working on something interesting 😉
+- 🔭 I’m currently working on upskilling
 - 🌱 I’m currently learning Typescript, Tailwind, NextJS
 - 👯 I’m looking to collaborate on **Backend Development** and **MERN Stack**
 - 🤔 I’m looking for help with exploring opportunities to enhance my skills through mentorship and collaborative learning

@@ -4,8 +4,6 @@
 
 Passionate about leveraging technology to build innovative solutions, I specialize in scalable web development with a focus on creating seamless user experiences. With a solid foundation in front-end development and certification in full-stack development, coupled with AWS expertise, I'm committed to pushing the boundaries of what's possible in the digital realm.
 
-## 🌟 What Sets Me Apart
-
 - **Continuous Learner:** Always seeking opportunities to expand my skill set and stay updated with the latest technologies and trends.
 - **Collaborative Spirit:** Thrives in team environments, valuing diverse perspectives and fostering open communication to drive collective success.
 - **Problem Solver:** Navigates dynamic environments with a positive mindset, leveraging creativity and critical thinking to find solutions.

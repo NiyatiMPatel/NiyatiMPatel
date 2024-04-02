@@ -1,4 +1,4 @@
-![Header Image](image/github-header-image.png)
+![Header Image](image/github-header-image-1.png)
 
 ## 👨‍💻 About Me
 
